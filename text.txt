@@ -1,0 +1,26 @@
+1. Tìm hiểu coin và các chỉ số cơ bản:
+   - Coin là gì? (khái niệm, mục đích, blockchain nền tảng)
+   - Các chỉ số cơ bản: Market Cap (vốn hóa), Volume (khối lượng giao dịch), Circulating Supply (lượng cung lưu thông), Total Supply, Max Supply, Price (giá), ATH (All Time High), ATL (All Time Low), ROI (Return on Investment).
+
+2. Đặt câu hỏi cần biết về các chỉ số:
+   - Coin này dùng để làm gì?
+   - Đội ngũ phát triển là ai?
+   - Market Cap lớn hay nhỏ? So với các coin khác thế nào?
+   - Volume giao dịch có ổn định không?
+   - Lượng cung có bị giới hạn không? (Max Supply)
+   - Giá hiện tại so với ATH/ATL ra sao?
+   - Coin này có staking, farming, hay utility gì đặc biệt không?
+   - Đã từng bị hack hoặc có sự kiện lớn nào chưa?
+   - Được niêm yết trên sàn nào?
+
+3. Tìm hiểu các chỉ số nâng cao:
+   - On-chain data: số lượng holder, số lượng giao dịch, địa chỉ ví lớn (whale), tần suất chuyển động coin.
+   - Tokenomics: phân bổ token, lịch unlock, vesting.
+   - Developer activity: số lượng commit, cập nhật code, cộng đồng phát triển.
+   - Social metrics: số lượng follower, mức độ tương tác trên mạng xã hội.
+   - Partnership, roadmap, adoption thực tế.
+
+4. Tổng hợp toàn bộ thông tin:
+   - Đánh giá tổng quan về tiềm năng, rủi ro, cơ hội đầu tư.
+   - So sánh với các coin cùng phân khúc.
+   - Lưu ý các nguồn thông tin chính thống (Coinmarketcap, Coingecko, Whitepaper, Github, Twitter, Telegram...).

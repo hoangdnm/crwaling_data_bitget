@@ -1,0 +1,107 @@
+KIẾN THỨC CƠ BẢN VỀ COIN VÀ CÁC CHỈ SỐ
+
+1. Coin là gì?
+   - Coin là tài sản kỹ thuật số hoạt động trên nền tảng blockchain, có thể dùng để giao dịch, lưu trữ giá trị hoặc phục vụ các mục đích khác như thanh toán, staking, quản trị...
+
+2. Các chỉ số cơ bản:
+   - Market Cap (Vốn hóa): Tổng giá trị thị trường của coin (giá hiện tại x lượng cung lưu thông).
+   - Volume (Khối lượng giao dịch): Tổng giá trị giao dịch của coin trong một khoảng thời gian (thường là 24h).
+   - Circulating Supply: Lượng coin đang lưu thông trên thị trường.
+   - Total Supply: Tổng số coin đã được phát hành.
+   - Max Supply: Số lượng coin tối đa sẽ được phát hành.
+   - Price (Giá): Giá hiện tại của coin.
+   - ATH (All Time High): Mức giá cao nhất từng đạt được.
+   - ATL (All Time Low): Mức giá thấp nhất từng đạt được.
+   - ROI (Return on Investment): Tỷ suất lợi nhuận đầu tư.
+
+3. Các câu hỏi cần đặt ra khi nghiên cứu coin:
+   - Coin này dùng để làm gì? (Use case)
+   - Đội ngũ phát triển là ai? (Team)
+   - Market Cap lớn hay nhỏ? So với các coin khác thế nào?
+   - Volume giao dịch có ổn định không?
+   - Lượng cung có bị giới hạn không? (Max Supply)
+   - Giá hiện tại so với ATH/ATL ra sao?
+   - Coin này có staking, farming, utility gì đặc biệt không?
+   - Đã từng bị hack hoặc có sự kiện lớn nào chưa?
+   - Được niêm yết trên sàn nào?
+
+4. Các chỉ số nâng cao:
+   - On-chain data: Số lượng holder, số lượng giao dịch, địa chỉ ví lớn (whale), tần suất chuyển động coin.
+   - Tokenomics: Phân bổ token, lịch unlock, vesting.
+   - Developer activity: Số lượng commit, cập nhật code, cộng đồng phát triển.
+   - Social metrics: Số lượng follower, mức độ tương tác trên mạng xã hội.
+   - Partnership, roadmap, adoption thực tế.
+
+5. Tổng hợp và đánh giá:
+   - Đánh giá tổng quan về tiềm năng, rủi ro, cơ hội đầu tư.
+   - So sánh với các coin cùng phân khúc.
+   - Lưu ý các nguồn thông tin chính thống: Coinmarketcap, Coingecko, Whitepaper, Github, Twitter, Telegram...
+
+6. Toàn bộ thông tin về coin:
+   - Thông tin dự án: Tên, ký hiệu, năm ra mắt, blockchain nền tảng, website chính thức.
+   - Whitepaper: Đọc kỹ tài liệu whitepaper để hiểu mục tiêu, giải pháp, công nghệ, lộ trình phát triển.
+   - Đội ngũ phát triển & cố vấn: Kiểm tra thông tin cá nhân, kinh nghiệm, dự án từng tham gia.
+   - Đối tác & nhà đầu tư: Các quỹ đầu tư, đối tác chiến lược, cộng đồng hỗ trợ.
+   - Lộ trình phát triển (roadmap): Các mốc phát triển, sản phẩm đã hoàn thành, kế hoạch tương lai.
+   - Tokenomics: Phân bổ token, lịch mở khóa, cơ chế giảm phát, utility token.
+   - Hoạt động cộng đồng: Số lượng thành viên, mức độ tương tác trên Telegram, Discord, Twitter...
+   - Niêm yết sàn: Đã lên sàn nào, thanh khoản, volume giao dịch.
+   - Bảo mật: Đã audit chưa, đơn vị audit, lịch sử bị hack hoặc lỗi bảo mật.
+   - Dữ liệu on-chain: Số lượng holder, ví lớn, hoạt động chuyển coin bất thường.
+   - Đánh giá rủi ro: Dự án có dấu hiệu scam, ponzi, rug pull không? Đội ngũ có minh bạch không?
+   - Các nguồn kiểm tra thông tin: Coinmarketcap, Coingecko, Dextools, Etherscan/Bscscan, Github, Medium, Twitter, Telegram, Discord, các trang audit (Certik, Hacken...).
+
+7. Phân loại coin/token:
+   - Coin: Đồng tiền gốc của một blockchain (BTC, ETH, BNB...).
+   - Token: Được phát hành trên nền tảng blockchain khác (ERC-20, BEP-20...).
+   - Stablecoin: Token có giá trị ổn định (USDT, USDC, BUSD...).
+   - Governance token: Token quản trị, cho phép holder tham gia biểu quyết (UNI, AAVE...).
+   - Utility token: Token phục vụ tiện ích trong hệ sinh thái (BNB, FTT...).
+   - Meme coin: Token mang tính chất cộng đồng, meme (DOGE, SHIB...).
+
+8. Các thuật ngữ phổ biến:
+   - FOMO (Fear Of Missing Out): Tâm lý sợ bỏ lỡ cơ hội.
+   - FUD (Fear, Uncertainty, Doubt): Tin đồn, thông tin tiêu cực gây hoang mang.
+   - Pump & Dump: Đẩy giá lên rồi xả hàng.
+   - Rug Pull: Dự án lừa đảo, rút thanh khoản bỏ trốn.
+   - Whale: Cá mập, ví lớn nắm giữ nhiều coin.
+   - DEX/CEX: Sàn phi tập trung/tập trung (Uniswap, Binance...).
+   - Staking, Farming, Lending, Borrowing: Các hình thức kiếm lợi nhuận từ coin.
+
+9. Các yếu tố ảnh hưởng giá coin:
+   - Tin tức, sự kiện, hợp tác, niêm yết sàn mới.
+   - Xu hướng thị trường (bull/bear).
+   - Chính sách pháp lý, quy định nhà nước.
+   - Công nghệ, sản phẩm mới, cập nhật hệ thống.
+   - Hoạt động của cá mập, đội nhóm thao túng giá.
+
+10. Các rủi ro khi đầu tư coin:
+    - Biến động giá mạnh, dễ thua lỗ.
+    - Dự án scam, rug pull, ponzi.
+    - Sàn giao dịch bị hack, lỗi bảo mật.
+    - Mất private key, seed phrase.
+    - Quy định pháp lý thay đổi.
+
+11. Các công cụ phân tích & tra cứu:
+    - Coinmarketcap, Coingecko: Tra cứu giá, vốn hóa, thông tin cơ bản.
+    - TradingView: Phân tích kỹ thuật, biểu đồ giá.
+    - Etherscan, Bscscan: Tra cứu giao dịch, ví, hợp đồng thông minh.
+    - Dextools, Dexscreener: Theo dõi token mới, thanh khoản trên DEX.
+    - LunarCrush, Santiment: Phân tích dữ liệu mạng xã hội, on-chain.
+    - Github: Theo dõi hoạt động phát triển dự án.
+
+12. Lưu ý khi đầu tư:
+    - Không all-in, đa dạng hóa danh mục.
+    - Quản lý vốn, đặt stoploss hợp lý.
+    - Không tin vào cam kết lợi nhuận, tránh FOMO.
+    - Tìm hiểu kỹ dự án trước khi đầu tư.
+    - Ưu tiên bảo mật tài khoản, ví, seed phrase.
+
+13. Các nguồn học tập & cộng đồng:
+    - Các kênh Youtube, blog, group Telegram, Discord về crypto.
+    - Theo dõi các chuyên gia, KOLs uy tín.
+    - Tham gia các khóa học, webinar về blockchain, crypto.
+
+=> Việc trang bị đầy đủ kiến thức, kỹ năng phân tích và quản lý rủi ro là yếu tố then chốt để đầu tư coin hiệu quả và an toàn.
+
+
