@@ -19,7 +19,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 # Thêm thư viện cho proxy rotation và user-agent
 import requests
 try:
-    from fake_useragent import FakeUserAgent as UserAgent
+    from fake_useragent import FakeUserAgent as UserAgent # type: ignore
 except ImportError:
     print("Thư viện fake-useragent chưa được cài đặt. Một số tính năng có thể không hoạt động.")
     print("Bạn có thể cài đặt nó bằng lệnh: pip install fake-useragent")
