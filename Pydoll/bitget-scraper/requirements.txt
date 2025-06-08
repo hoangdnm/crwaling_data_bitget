@@ -1,0 +1,4 @@
+Pydoll
+pandas
+openpyxl
+asyncio
