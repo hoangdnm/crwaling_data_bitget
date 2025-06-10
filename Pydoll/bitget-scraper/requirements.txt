@@ -1,4 +1,0 @@
-Pydoll
-pandas
-openpyxl
-asyncio
